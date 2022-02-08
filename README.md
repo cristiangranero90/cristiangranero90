@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning the kotlin language
 - 👯 I’m looking to collaborate on a mobiles applications || Java applications
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cristian-gabriel-granero/) [Email](mailto:cristian_granero90@yahoo.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cristian-gabriel-granero/) | [Email](mailto:cristian_granero90@yahoo.com)
 - 💬 Ask me about: Programming and ... Bikes!
 
 <!--
