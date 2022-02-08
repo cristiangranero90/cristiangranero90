@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Cristian! and i am from **Argentina**,
+
+- 🌱 I’m currently learning the kotlin language
+- 👯 I’m looking to collaborate on a mobiles applications || Java applications
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cristian-gabriel-granero/)
+- 💬 Ask me about: Programming and ... Bikes!
 
 <!--
 **cristiangranero90/cristiangranero90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
