@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiangranero90" alt="cristiangranero90" /></a> </p>
 
-- 🔭 I’m currently working on **a web/app for secure carpooling**
+- 🔭 I’m currently working on **a web-app with a great team**
 
 - 🌱 I’m currently learning **Android, Java/spring and something of web development**
 
