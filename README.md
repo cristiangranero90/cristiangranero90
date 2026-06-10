@@ -3,7 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cristiangranero90&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangranero90" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiangranero90" alt="cristiangranero90" /></a> </p>
 
 - 🔭 I’m currently working on **a web-app with a great team**
 
@@ -27,7 +26,7 @@
 <p>Some projects that i've been working!</p>
 <div align="center">
   <h2 align="center">Juntas Web, carpooling. </h2>
-  <img src="https://github.com/No-Country/s7-02-m-javareact/blob/main/readme_resources/juntas_home.png" width="800"/>
+  <img src="https://github.com/cristiangranero90/s7-02-m-javareact/blob/main/readme_resources/juntas_how-it-works.png" width="800"/>
   <p>Juntas is a web app that make it easy for women to sharing trips with each others. Backend created with Java, Spring boot and MySQL.</p>
   <p> <a href="https://github.com/cristiangranero90/s7-02-m-javareact">Link to the project </a></p>
 </div>
@@ -48,7 +47,7 @@
   
 <div align="center">
   <h2 align="center">TEAyuda for Android</h2>
-  <img src="https://github.com/No-Country/c9-10-kotlin-fulltime/blob/main/FrontEnd/Gallery/HomeScreen.jpg" height="400" align="center"/>
+  <img src="https://github.com/cristiangranero90/c9-10-kotlin-fulltime-app/blob/main/imagen_2026-06-09_211043410.png" height="400" align="center"/>
   <p align="center">A social network for Android. Created with Jetpack compose, firebase suite and roomDB </p>
   <p> <a href="https://github.com/cristiangranero90/c9-10-kotlin-fulltime-app">Link to the project </a></p>
 </div>
