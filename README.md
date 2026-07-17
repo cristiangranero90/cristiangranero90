@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cristian Granero</h1>
-<h3 align="center">Mobile developer</h3>
+<h3 align="center">Mobile developer and system analyst</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cristiangranero90&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangranero90" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter app for Android and Linux**
+- 🔭 I’m currently working on a **Flutter app for Android and Linux**
 
 - 🌱 I’m currently learning **Android, Java/spring and something of Dart/Flutter apps**
 
