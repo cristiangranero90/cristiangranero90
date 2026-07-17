@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cristian Granero</h1>
-<h3 align="center">An Android mobile developer and Java developer</h3>
+<h3 align="center">Mobile developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cristiangranero90&label=Profile%20views&color=0e75b6&style=flat" alt="cristiangranero90" /> </p>
 
 
-- 🔭 I’m currently working on **a web-app with a great team**
+- 🔭 I’m currently working on **Flutter app for Android and Linux**
 
 - 🌱 I’m currently learning **Android, Java/spring and something of Dart/Flutter apps**
 
 - 👯 I’m looking to collaborate on **Android applications || Java applications**
 
-- 💬 Ask me about **Proramming, Algorythms and Bikes...**
+- 💬 Ask me about **Code, algorythms, bikes and skate life...**
 
-- 📫 How to reach me: [Personal Email](mailto:cristian_granero90@yahoo.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
